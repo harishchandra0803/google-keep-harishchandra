@@ -11,15 +11,6 @@ This project is a Google Keep clone built using Angular, providing users with a 
 - 🎨 **User-Friendly UI** – Inspired by Google Keep’s layout.  
 - 💾 **Local Storage Support** – Notes persist even after page reload. 
 
-# Description
-
-
-
-# Preview
-
-
-
-
 
 </div>
 
